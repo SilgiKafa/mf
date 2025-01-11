@@ -59,5 +59,10 @@ body {
 
 p { 
     text-align: center;
-    margin: 15px;
+    display: inline;
+    font-size: larger;
+    
+}
+img {
+    width: 300px;
 }
